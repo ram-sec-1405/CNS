@@ -29,6 +29,8 @@ becomes C. To change a message back, each letter is replaced by the one three be
 
 ### PROGRAM :-
 
+```
+
 #include <stdio.h>
 #include <string.h>
 #include <conio.h>
@@ -71,6 +73,9 @@ void main()
 
     
 }
+
+
+```
 
 OUTPUT :-
 
